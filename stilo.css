@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #01c0fa;
+}
+
+/*
+estilizando o menu de navegação
+*/
+.menu-principal{
+
+   list-style: none;
+   display: flex;
+    
+}
+
+.menu-principa li{
+    display: block;
+    list-style: none ;
+}
